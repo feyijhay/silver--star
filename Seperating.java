@@ -19,9 +19,9 @@ import java.util.Scanner;
     System.out.printf("%d\t", number3);
 
     int number4 = (number % 100) / 10;
-    System.out.printf("%d\t", number4);
+    System.out.printf("%d\t", number4);     
 
-    int number5 = (number % 10 ) ;
+    int number5 = (number % 10 );
     System.out.printf("%d", number5);
     
     
